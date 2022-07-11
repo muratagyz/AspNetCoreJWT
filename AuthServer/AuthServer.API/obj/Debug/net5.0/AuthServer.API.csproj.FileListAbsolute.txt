@@ -34,3 +34,12 @@ C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\AuthS
 C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\SharedLibrary.pdb
 C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\AuthServer.Core.pdb
 C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\AuthServer.Data.pdb
+C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
