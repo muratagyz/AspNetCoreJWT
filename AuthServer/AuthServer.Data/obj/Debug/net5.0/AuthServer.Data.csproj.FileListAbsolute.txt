@@ -15,3 +15,6 @@ C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.Data\bin\Debug\net5.0\Auth
 C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.csproj.CopyComplete
 C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.Data\bin\Debug\net5.0\SharedLibrary.dll
 C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.Data\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.Data\bin\Debug\net5.0\AuthServer.Data.runtimeconfig.json
+C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.Data\bin\Debug\net5.0\AuthServer.Data.runtimeconfig.dev.json
+C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.genruntimeconfig.cache
