@@ -15,7 +15,6 @@ C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\obj\Debug\net5.0\MiniApp
 C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\obj\Debug\net5.0\MiniApp2.API.AssemblyInfoInputs.cache
 C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\obj\Debug\net5.0\MiniApp2.API.AssemblyInfo.cs
 C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\obj\Debug\net5.0\MiniApp2.API.csproj.CoreCompileInputs.cache
-C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\obj\Debug\net5.0\MiniApp2.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\obj\Debug\net5.0\MiniApp2.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\obj\Debug\net5.0\scopedcss\bundle\MiniApp2.API.styles.css
 C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\obj\Debug\net5.0\staticwebassets\MiniApp2.API.StaticWebAssets.Manifest.cache
@@ -28,3 +27,11 @@ C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\obj\Debug\net5.0\MiniApp
 C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\obj\Debug\net5.0\ref\MiniApp2.API.dll
 C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\bin\Debug\net5.0\SharedLibrary.dll
 C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\MiniApp2.API\obj\Debug\net5.0\MiniApp2.API.MvcApplicationPartsAssemblyInfo.cs

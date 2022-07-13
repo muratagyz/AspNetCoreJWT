@@ -15,7 +15,6 @@ C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\obj\Debug\net5.0\AuthS
 C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\obj\Debug\net5.0\AuthServer.API.AssemblyInfoInputs.cache
 C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\obj\Debug\net5.0\AuthServer.API.AssemblyInfo.cs
 C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\obj\Debug\net5.0\AuthServer.API.csproj.CoreCompileInputs.cache
-C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\obj\Debug\net5.0\AuthServer.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\obj\Debug\net5.0\AuthServer.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\obj\Debug\net5.0\scopedcss\bundle\AuthServer.API.styles.css
 C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\obj\Debug\net5.0\staticwebassets\AuthServer.API.StaticWebAssets.Manifest.cache
@@ -71,3 +70,7 @@ C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\AutoM
 C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\obj\Debug\net5.0\AuthServer.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\mrtag\source\repos\JWT\AuthServer\AuthServer.API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
